@@ -18,6 +18,11 @@
         "backgroundColor": "#b3e5fc"
       },
       "package": "com.kalpegitim.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "554078da-7df4-414c-a233-f4752f4f818e"
+      }
     }
   }
 }
